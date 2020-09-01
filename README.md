@@ -3,7 +3,7 @@
 
 Esta aplicacion muestra en consola o crea en un archivo de texto
 
-Se deben interactur con los siguientes comando
+Se deben interactuar con los siguientes comandos:
 
 # Comando 1
 # Comando 2
